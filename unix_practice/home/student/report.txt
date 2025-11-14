@@ -1,0 +1,6 @@
+total 16
+drwxrwxrwx+ 2 codespace codespace 4096 Nov 14 09:57 Learning
+drwxrwxrwx+ 5 codespace codespace 4096 Nov 14 09:58 Python
+drwxrwxrwx+ 5 codespace codespace 4096 Nov 14 09:58 Website
+drwxr-xr-x+ 5 codespace codespace 4096 Nov 14 11:03 Website_Old
+13
